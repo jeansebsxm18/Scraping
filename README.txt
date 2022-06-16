@@ -1,0 +1,1 @@
+Realization of a project in JAVASCRIPT using npm and Node.js. This project helps to practice efficient scraping by limiting usage in key resources like request number, time and bandwidth.
